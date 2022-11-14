@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-1!x^4zgvrp1l8^918s2m(2^w6@n1joo=0ty#2^11=%ly((2d=h
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "ec2-52-79-230-172.ap-northeast-2.compute.amazonaws.com"
+    "ec2-52-79-230-172.ap-northeast-2.compute.amazonaws.com",
+    "novelistapi.cf",
 ]
 
 
